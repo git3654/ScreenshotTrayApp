@@ -1,17 +1,19 @@
 # ScreenshotTrayApp
-</p>
+<br>
 Simple Windows Sreenshot Tray App
-</p>
-</p>
-</p>
+<br>
+<br>
+<br>
+<br>
 ## 📚 Screenshots
-</p>
+<br>
 ![image1](Assets/image.png) ![image2](Assets/image2.png)
-</p>
-</p>
-</p>
+<br>
+<br>
+<br>
+<br>
 ## ⏬ Download
-</p>
+<br>
 Lade die neueste Version der Anwendung herunter:
-</p>
+<br>
 [Latest Release](https://github.com/git3654/ScreenshotTrayApp/releases/latest)
