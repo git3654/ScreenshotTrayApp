@@ -4,14 +4,14 @@ Simple Windows Sreenshot Tray App
 
 ![image1](Assets/tray.ico)
 
-
+---
 
 
 ## 📚 Screenshots
 
 ![image1](Assets/image.png) ![image2](Assets/image2.png)
 
-
+---
 
 
 ## ⏬ Download
