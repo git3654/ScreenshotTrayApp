@@ -1,6 +1,6 @@
-# ScreenshotTrayApp
+# ScreenshotApp
 
-Simple Windows Sreenshot Tray App
+Simple Windows Taskbar Sreenshot App
 
 ![image1](Assets/tray.ico)
 
