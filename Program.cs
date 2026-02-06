@@ -157,7 +157,7 @@ namespace TrayApp
         private Icon LoadIconFromResource()
         {
             var assembly = Assembly.GetExecutingAssembly();
-            using Stream stream = assembly.GetManifestResourceStream("TrayApp.tray.ico");
+            using Stream stream = assembly.GetManifestResourceStream("TrayApp.Assets.tray.ico");
 
             if (stream == null)
                 throw new Exception("Icon-Resource nicht gefunden");

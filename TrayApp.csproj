@@ -4,13 +4,13 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net10.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
-    <ApplicationIcon>tray.ico</ApplicationIcon>
+    <ApplicationIcon>Assets\tray.ico</ApplicationIcon>
     <PublishSingleFile>true</PublishSingleFile>
     <SelfContained>true</SelfContained>
   </PropertyGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="tray.ico" />
+    <EmbeddedResource Include="Assets\tray.ico" />
   </ItemGroup>
 
 </Project>
