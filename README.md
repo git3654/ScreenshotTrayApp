@@ -16,6 +16,8 @@ Simple Windows Taskbar Sreenshot App
 
 ## ⏬ Download
 
-Lade die neueste Version der Anwendung herunter:
+Download the latest version of the application:
 
 [Latest Release](https://github.com/git3654/ScreenshotTrayApp/releases/latest)
+
+---
