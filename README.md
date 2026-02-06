@@ -2,9 +2,19 @@
 Windows Sreenshot Tray App
 
 
+
+
+
+
+
 ## 📚 Screenshots
 
 ![image1](Assets/image.png) ![image2](Assets/image2.png)
+
+
+
+
+
 
 
 
