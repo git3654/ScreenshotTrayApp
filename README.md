@@ -4,8 +4,7 @@ Simple Windows Taskbar Sreenshot App
 
 Left-click the tray icon to save a screenshot in the "User/MyPictures/Screenshots" folder.
 
-![image1](Assets/tray.ico)
-<img src="Assets/tray.ico" width="24" />
+<img src="Assets/tray.ico" width="100" />
 
 ---
 
